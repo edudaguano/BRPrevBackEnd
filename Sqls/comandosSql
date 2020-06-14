@@ -1,0 +1,1 @@
+INSERT INTO tb_login (usr,snh) VALUES ("edu", "edu"),("maria", "maria"), ("joao", "joao"), ("marta", "marta"),("leo", "leo"),("alana", "alana");
